@@ -1,9 +1,0 @@
-# Node virtual environment
-/env*
-
-
-# Node Modules
-node_modules
-
-# Environment
-.env
